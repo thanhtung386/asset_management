@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "629313238411",
+    "firebase_url": "https://flutter-d3a7f-default-rtdb.firebaseio.com",
+    "project_id": "flutter-d3a7f",
+    "storage_bucket": "flutter-d3a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629313238411:android:a308084f7131b74d0deb8e",
+        "android_client_info": {
+          "package_name": "com.example.asset_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629313238411-r0dkfv4gsjjptbrhbuvidcbcfh9qflfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB16RgZnMvr8o4KTsBx6yMsttbYQWsOTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629313238411-r0dkfv4gsjjptbrhbuvidcbcfh9qflfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629313238411-fdgke64n2hk8ahvaf7ktakor87qn2ast.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quanLyTaiSan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629313238411:android:df3c33506632fe5f0deb8e",
+        "android_client_info": {
+          "package_name": "com.example.quan_li_tai_san"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629313238411-r0dkfv4gsjjptbrhbuvidcbcfh9qflfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB16RgZnMvr8o4KTsBx6yMsttbYQWsOTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629313238411-r0dkfv4gsjjptbrhbuvidcbcfh9qflfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629313238411-fdgke64n2hk8ahvaf7ktakor87qn2ast.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quanLyTaiSan"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629313238411:android:de7e0bab0f98bfa10deb8e",
+        "android_client_info": {
+          "package_name": "com.example.quan_ly_tai_san"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629313238411-r0dkfv4gsjjptbrhbuvidcbcfh9qflfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB16RgZnMvr8o4KTsBx6yMsttbYQWsOTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629313238411-r0dkfv4gsjjptbrhbuvidcbcfh9qflfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629313238411-fdgke64n2hk8ahvaf7ktakor87qn2ast.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quanLyTaiSan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
