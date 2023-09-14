@@ -89,8 +89,8 @@ class quan_li_tai_sanState extends State<quan_li_tai_san>{
         mainAxisAlignment: MainAxisAlignment.center, 
 
         children: [ 
-
-          Image.asset('img/qlts.png',width: 250,height: 250,), 
+          const Image(
+            image: AssetImage('image/qlts.jpg')),
 
           Row( 
 
