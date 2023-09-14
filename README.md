@@ -1,4 +1,4 @@
-i<h1 align="center">Welcome to my Asset Management App</h1>
+<h1 align="center">Welcome to my Asset Management App</h1>
 A new Flutter project.
 
 ## Getting Started
@@ -20,3 +20,18 @@ samples, guidance on mobile development, and a full API reference.
 
 > Database: Firebase
 
+### ✨ [First UI]
+
+![pic_0](https://github.com/thanhtung386/asset_management/blob/main/image/first_ui.jpg)
+
+### ✨ [Input Data Activity]
+
+![pic_1](https://github.com/thanhtung386/asset_management/blob/main/image/input_data.jpg)
+
+### ✨ [Show the result when check with QR/BarCode]
+
+![pic_2](https://github.com/thanhtung386/asset_management/blob/main/image/result_screen.jpg)
+
+### ✨ [Database on Firebase]
+
+![pic_3](https://github.com/thanhtung386/asset_management/blob/main/image/firebase.png)
