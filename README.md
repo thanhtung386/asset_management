@@ -22,15 +22,15 @@ samples, guidance on mobile development, and a full API reference.
 
 ### ✨ [First UI]
 
-![pic_0](https://github.com/thanhtung386/asset_management/blob/main/image/first_ui.jpg)
+![pic_0](https://github.com/thanhtung386/asset_management/blob/main/image/first_ui.jpg | width=100)
 
 ### ✨ [Input Data Activity]
 
-![pic_1](https://github.com/thanhtung386/asset_management/blob/main/image/input_data.jpg)
+![pic_1](https://github.com/thanhtung386/asset_management/blob/main/image/input_data.jpg | width=100)
 
 ### ✨ [Show the result when check with QR/BarCode]
 
-![pic_2](https://github.com/thanhtung386/asset_management/blob/main/image/result_screen.jpg)
+![pic_2](https://github.com/thanhtung386/asset_management/blob/main/image/result_screen.jpg | width=100)
 
 ### ✨ [Database on Firebase]
 
